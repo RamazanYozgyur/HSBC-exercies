@@ -26,7 +26,7 @@ In this exercise firstly I made table which contains date, Euro size, Euro price
 3) A command to start a q process which will load this function : q Task2_VWAP_TWAP.q -q  on the linux terminal
 
 
-4)Example of how to call the function  : Two functions f and g will be called when you run Task2_VWAP_TWAP.q. You need to enter inputs. For f input is path of csv file. For g function inputs are  number of days and type of currency.
+4) Example of how to call the function  : Two functions f and g will be called when you run Task2_VWAP_TWAP.q. You need to enter inputs. For f input is path of csv file. For g function inputs are number of days and type of currency.
 
 
- 5)Test(s) to ensure validity of code   : I add video where you can see that I run these files in my machine. 
+ 5) Test(s) to ensure validity of code   : I add video where you can see that I run these files in my machine. 
